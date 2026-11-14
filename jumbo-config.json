@@ -1,0 +1,16 @@
+{
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "interstitial_every_wins": 2,
+  "interstitial_min_seconds": 30,
+  "admob_banner": "ca-app-pub-3940256099942544/9214589741",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "donate_enabled": true,
+  "donate_usdt_trc20": "TWtSsqY1enCWqcSfi8Kac4J9obkQR7iJsb",
+  "privacy_url": "https://example.com/jumbo/privacy-policy",
+  "more_apps_url": "https://play.google.com/store/apps/developer?id=MS+Bytes",
+  "message": ""
+}
